@@ -16,6 +16,7 @@ Shifra is a simple browser-based virtual assistant built using JavaScript and th
  - JavaScript (ES6) – Core logic and speech synthesis/recognition
  - Web APIs – SpeechRecognition, SpeechSynthesisUtterance, window.open()
 
-Created By
-Aditya Kunwar
-Your friendly coder building intelligent voice-based interactions for the web.
+
+## Author
+### Aditya Kunwar
+Full Stack Developer | Passionate about building scalable and intelligent web apps
